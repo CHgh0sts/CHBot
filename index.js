@@ -99,4 +99,4 @@ Client.on('interactionCreate', interaction => {
         console.error(`Un problème est survenue a la lecture de "clickButton.js"`)
     }
 });
-Client.login(config.token);
+Client.login(process.env.TOKEN);
