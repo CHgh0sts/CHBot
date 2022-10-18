@@ -1,0 +1,15 @@
+{
+    "id": "{{server.id}}",
+    "name": "{{server.name}}",
+    "ServerType": "public",
+    "channelArriverId": "",
+    "channelDepartId": "",
+    "channelLogId": "",
+    "valMention": true,
+    "thumbnail": true,
+    "msgLienLog": true,
+    "roleTev": "",
+    "mute": [],
+    "tev": [],
+    "tmv": []
+}
